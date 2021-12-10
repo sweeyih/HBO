@@ -1,85 +1,56 @@
-#EXTM3U
-#EXTINF:0,民视
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:0,台视
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e9/a5/7d/e9a57d87-a0a1-d4e6-3b4a-f10abc314965/source/1024x1024bb.jpg", 台视
 http://50.7.61.148:30080/Entry/ttv
-#EXTINF:0,华视
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
 http://50.7.61.147:30080/Entry/cts
-#EXTINF:0,八大综合
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 八大综合
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:0,八大第一
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 八大第一
 http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF:0,欢乐台
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 欢乐台
 http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-#EXTINF:0,中天娱乐
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 中天娱乐
 http://125.227.210.37:15796/VideoInput/play.ts
-#EXTINF:0,纬来综合
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 纬来综合
 http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-#EXTINF:0,未来日本
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 未来日本
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF:0,WakuWaku Japan
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", WakuWaku Japan
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:0,HD
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", HD
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:0,亚洲旅游
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/833_1920x1080_HTV.png", 亚洲旅游
 http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-#EXTINF:0,三立台湾
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 三立台湾
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,三立都會
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://images.sports8.net/cimg/1030.jpg", 三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,动物星球
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 动物星球
 http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
-#EXTINF:0,Discovery
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", Discovery
 http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-#EXTINF:0,Nat Geographic
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/411_1920x1080_HTV.png", Nat Geographic
 http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
-#EXTINF:0,TLC
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20254_TLC_240419_90x50.png", TLC
 http://125.227.210.37:19020/VideoInput/play.ts
-#EXTINF:0,Asia
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png", Asia
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:0,翡翠台
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png", 翡翠台
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:0,为食台
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/TVB_Food.png", 为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:0,东森洋片
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 东森洋片
 http://125.227.210.37:18685/VideoInput/play.ts
-#EXTINF:0,卫视洋片
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 卫视洋片
 http://125.227.210.37:18789/VideoInput/play.ts
-#EXTINF:0,FOX MOVIES
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", FOX MOVIES
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-#EXTINF:0,CINEMAX
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", CINEMAX
 http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
-#EXTINF:0,HBO
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
 http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:0,HBO HD
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", HBO HD
 http://125.227.210.37:16027/VideoInput/play.ts
-#EXTINF:0,HBO 720p
-#EXTGRP:Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", HBO 720p
 http://50.7.61.148:30080/Entry/hbo
