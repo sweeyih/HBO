@@ -47,7 +47,7 @@ http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", HD
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游
-http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立台湾
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立都會
