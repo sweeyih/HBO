@@ -1,0 +1,100 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本
+rtmp://59.124.75.157/sat/tv771
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e9/a5/7d/e9a57d87-a0a1-d4e6-3b4a-f10abc314965/source/1024x1024bb.jpg", 台视
+rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/220px-China_TV_logo_since_19971030.svg.png", 中视
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", 欢乐台
+rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐
+rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
+http://183.178.58.115:8032/0.ts
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
+http://95.211.250.54:80/HBO/mono.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO 2
+http://95.211.250.54:80/HBO_2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBO Signature
+http://183.178.58.115:8031/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
+http://183.178.58.115:8029/0.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
+http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e9/a5/7d/e9a57d87-a0a1-d4e6-3b4a-f10abc314965/source/1024x1024bb.jpg", 台视
+http://50.7.61.148:30080/Entry/ttv
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
+http://50.7.61.147:30080/Entry/cts
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大综合
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大第一
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", 欢乐台
+http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png", 中天娱乐
+http://125.227.210.37:15796/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来综合
+http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本
+http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png", WakuWaku Japan
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", HD
+http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游
+http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立台湾
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立都會
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/46ed70b1-7277-3988-95d9-bf53c9a37d88.png", 动物星球
+http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=Discovery_Channel_HD&productId=ENTOD&sourceType=colorHybrid", Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://www.disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_rectangle.png", National Geographic
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png", Star SportS
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/da786934f7f2e4b1d2291691722cf3df936eb37b.png", TLC
+http://125.227.210.37:19020/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png", Asia
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2Yi5teXR2c3VwZXJfaWNvbl8xNjI0NTE5ODEyXzA2Nw/icon.png?w=&fakeurl=1", 为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/500px-Eastern_Broadcasting_Co_Limited_logo.svg.png", 东森洋片
+http://125.227.210.37:18685/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ofKp15gMzQAju2g_YTeURvS7ChjhFk4b6tt54YWhbP2vcasg40Ul9wHjANz6lmfaJHt8dn2G_GnYfzxMtd03gc3SkDl3LdCE6xX8wg", 卫视洋片
+http://125.227.210.37:18789/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
+http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO HD
+http://125.227.210.37:16027/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video116/v4/cf/f7/15/cff715a7-4437-24dc-0e36-f58d62bda557/DIS_ENCANTO_WW_ARTWORK_EN_3840x2160_322K78000002BW.lsr/1200x675.jpg", Encanto
+https://onedrive.live.com/download?cid=2B23E90D29486F6B&resid=2B23E90D29486F6B%21111&authkey=AJKwwb9EtAPOQxo
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/a8/96/d7/a896d7ef-4f20-bca2-ed5f-4f563977b214/UNI_SPIRIT_UNTAMED_TH_MLWW_WW_ARTWORK_EN_3840x2160_2SDBM00000067X.lsr/1200x675.jpg", Spirit Untamed
+https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21106&authkey=AFhOKVw4tjZrKBs
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/4f/2b/1e/4f2b1ee9-518c-7f39-2973-a95ad332d8f2/pr_source.lsr/1200x675.jpg", A New Legacy
+https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21107&authkey=ALS1yYqeaiUTBTM
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/13/56/9c/13569cf0-6871-313d-484e-c40921332348/pr_source.lsr/1200x675.jpg", A Quiet Place II
+https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21108&authkey=AP_o0Cgb6uWG0gQ
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/504C-FDxpkDUcMF27l_tDw/1200x675.jpg", Jungle Cruise
+https://onedrive.live.com/download?cid=1C84241D16B99BC2&resid=1C84241D16B99BC2%21719&authkey=AAgT_Z9i1bjHLO4
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/97/87/22/9787227a-4307-22ea-cb75-bc5174bb1cad/pr_source.lsr/1200x675.jpg", Wife's Bodyguard
+https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21107&authkey=APxgjvKdbMPnUCc
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/biolq1IDACPNhfc__bBniw/1200x675.jpg", Black Widow
+https://onedrive.live.com/download?cid=84694CAA0DFD08C3&resid=84694CAA0DFD08C3%21116&authkey=AEoBv9fI9js1k4o
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/c7/66/0d/c7660d78-48fe-0717-6b18-ed16bb156cd9/pr_source.lsr/1200x675.jpg", Suicide Squad
+https://onedrive.live.com/download?cid=2B23E90D29486F6B&resid=2B23E90D29486F6B%21106&authkey=AMJ__qA7VOlw68o
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/bb/dd/51/bbdd519d-ea19-c193-b38e-d67f4e58beb7/SPE_Peter_Rabbit_2_FINAL_WW_ARTWORK_EN_EN-GB_EN-AU_3840x2160_26G9TH000004D8.lsr/1200x675.jpg", Peter Rabbit 2
+https://onedrive.live.com/download?cid=5F75B394534197DB&resid=5F75B394534197DB%21108&authkey=AA7hlZ2ox6Y-APo
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video115/v4/e4/9c/c7/e49cc7ca-7871-4ee9-e323-5806636733a7/Fast9_PVOD_3840x2160_CoverArt_KA.lsr/1200x675.jpg", Fast & Furious 9
+https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21106&authkey=AIJBawQ6CbXaPE0
+#EXTINF:-1 tvg-logo="https://www.woah.my/wp-content/uploads/2021/05/jjlin.jpg", 林俊傑 - 聖所
+https://onedrive.live.com/download?cid=60749A173A0EB06C&resid=60749A173A0EB06C%21106&authkey=APllbjnR0fJU6dA
