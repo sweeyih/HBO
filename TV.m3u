@@ -62,7 +62,7 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png", Star SportS
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/da786934f7f2e4b1d2291691722cf3df936eb37b.png", TLC
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/da786934f7f2e4b1d2291691722cf3df936eb37b.png", TLC旅游生活频道
 http://125.227.210.37:19020/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png", Asia
 http://iptv.tvfix.org/hls/tvbs.m3u8
