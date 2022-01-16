@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
 rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
 rtmp://59.124.75.157/sat/tv051
@@ -10,7 +10,7 @@ rtmp://59.124.75.157/sat/tv091
 rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", 欢乐台
 rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐台
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
 http://183.178.58.115:8032/0.ts
@@ -30,11 +30,11 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 http://50.7.61.148:30080/Entry/ttv
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
 http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大综合
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大综合台
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大第一
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大第一台
 http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", 欢乐台
+#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS欢乐台
 http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png", 中天娱乐
 http://125.227.210.37:15796/VideoInput/play.ts
@@ -44,19 +44,19 @@ http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png", WakuWaku Japan
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", HD
+#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立台湾
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立都會
+#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立都会台
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/46ed70b1-7277-3988-95d9-bf53c9a37d88.png", 动物星球
 http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=Discovery_Channel_HD&productId=ENTOD&sourceType=colorHybrid", Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://www.disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_rectangle.png", National Geographic
+#EXTINF:-1 tvg-logo="https://www.disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_rectangle.png", 国家地理频道
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png", Star SportS
 http://iptv.tvfix.org/hls/starsports.m3u8
