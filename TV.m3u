@@ -40,7 +40,7 @@ http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 #EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS欢乐台
 http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png", 中天娱乐
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png", 中天娱乐台
 http://125.227.210.37:15796/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来综合
 http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
