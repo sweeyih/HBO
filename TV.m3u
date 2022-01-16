@@ -20,10 +20,6 @@ rtmp://59.124.75.157/sat/tv111
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐台
 rtmp://59.124.75.157/sat/tv701
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://183.178.58.115:8032/0.ts
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBO Signature
-http://183.178.58.115:8031/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
 http://183.178.58.115:8029/0.ts
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png", FOXMOVIES
