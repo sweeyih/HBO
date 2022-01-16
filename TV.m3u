@@ -16,7 +16,7 @@ rtmp://59.124.75.157/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
 rtmp://59.124.75.157/sat/tv111
-#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", 欢乐台
+#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS欢乐台
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐台
 rtmp://59.124.75.157/sat/tv701
