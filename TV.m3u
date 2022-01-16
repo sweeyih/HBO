@@ -1,5 +1,13 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
 rtmp://59.124.75.157/sat/tv771
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
+http://95.211.250.54:80/HBO/mono.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO 2
+http://95.211.250.54:80/HBO_2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
 rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e9/a5/7d/e9a57d87-a0a1-d4e6-3b4a-f10abc314965/source/1024x1024bb.jpg", 台视
@@ -14,10 +22,6 @@ rtmp://59.124.75.157/sat/tv421
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
 http://183.178.58.115:8032/0.ts
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://95.211.250.54:80/HBO/mono.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO 2
-http://95.211.250.54:80/HBO_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBO Signature
 http://183.178.58.115:8031/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
@@ -46,8 +50,6 @@ http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游台
-http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立都会台
@@ -64,8 +66,6 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 http://125.227.210.37:19020/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png", Asia
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2Yi5teXR2c3VwZXJfaWNvbl8xNjI0NTE5ODEyXzA2Nw/icon.png?w=&fakeurl=1", 为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/500px-Eastern_Broadcasting_Co_Limited_logo.svg.png", 东森洋片
