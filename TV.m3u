@@ -46,7 +46,7 @@ http://125.227.210.37:15796/VideoInput/play.ts
 http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png", WakuWaku Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png", wakuwaku
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS
 http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
