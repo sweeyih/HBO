@@ -15,7 +15,7 @@ http://iptv.tvfix.org/hls/mydy2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png", 美亚高清电影台
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://95.211.250.54:80/HBO/mono.m3u8
+http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO 2
 http://95.211.250.54:80/HBO_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游台
