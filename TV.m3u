@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png", History
 http://206.119.163.4/apitv/gtlive.php?id=14165&cid=14325
+#EXTINF:-1 tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20210_History2.jpg", History 2
+http://206.119.163.4/apitv/gtlive.php?id=13640&cid=13792
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
 rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
