@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png", History
-http://206.119.163.4/apitv/gtlive.php?id=14165&cid=14325
-#EXTINF:-1 tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20210_History2.jpg", History 2
-http://206.119.163.4/apitv/gtlive.php?id=13640&cid=13792
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/613_1920x1080_HTV.png", CinemaWorld
-http://206.119.163.4/apitv/gtlive.php?id=14061&cid=14221
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
 rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
@@ -20,10 +14,6 @@ http://iptv.tvfix.org/hls/tvbxh.m3u8
 http://iptv.tvfix.org/hls/mydy2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png", 美亚高清电影台
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO 2
-http://95.211.250.54:80/HBO_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
@@ -38,6 +28,8 @@ rtmp://59.124.75.157/sat/tv111
 rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐台
 rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/613_1920x1080_HTV.png", CinemaWorld
+http://206.119.163.4/apitv/gtlive.php?id=14061&cid=14221
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
 http://183.178.58.115:8029/0.ts
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png", FOXMOVIES
