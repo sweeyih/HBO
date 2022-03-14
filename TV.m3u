@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
 http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBO Signature
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBOSignature
 http://iptv.tvfix.org/hls/hbosignature.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png", HBO Family
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png", HBOFamily
 http://iptv.tvfix.org/hls/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png", HBO Hits
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png", HBOHits
 http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
 rtmp://59.124.75.157/sat/tv771
