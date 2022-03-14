@@ -4,6 +4,10 @@ rtmp://59.124.75.157/sat/tv771
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
 http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540", 明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540", 明珠台
+http://iptv.tvfix.org/hls/pearl2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png", J2
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png", TVB星河频道
