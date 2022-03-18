@@ -11,7 +11,7 @@ http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBOSignature
 http://iptv.tvfix.org/hls/hbosignature.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png", HBOFamily
-http://iptv.tvfix.org/hls/hbofamily.m3u8
+http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853#http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png", HBOHits
 http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
