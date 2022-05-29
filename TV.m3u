@@ -1,136 +1,81 @@
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://125.227.210.55:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://125.227.210.37:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
-https://pullhls3948069e.live.126.net/live/ccfe0f1feee17370193c3dae1d2c681e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
-http://lius.usa7.20212021.ga/iptv_tbs.php?id=1
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png", HBOSignature
-http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png", HBOFamily
-http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png", HBOFamily
-http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png", HBOHits
-http://iptv.tvfix.org/hls/hbohits.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
-rtmp://59.124.75.157/sat/tv771
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0004/0760/brand.gif?itok=Q0YCzb7d", 翡翠台
-http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540", 明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540", 明珠台
-http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png", J2
-http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png", TVB星河频道
-http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png", TVB星河频道
-http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png", 美亚高清电影台
-http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png", 美亚高清电影台
-http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/335-3357705_asia-travel-tv-logo.png", 亚洲旅游台
-http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
-rtmp://59.124.75.157/sat/tv051
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e9/a5/7d/e9a57d87-a0a1-d4e6-3b4a-f10abc314965/source/1024x1024bb.jpg", 台视
-rtmp://59.124.75.157/sat/tv071
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/220px-China_TV_logo_since_19971030.svg.png", 中视
-rtmp://59.124.75.157/sat/tv091
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
-rtmp://59.124.75.157/sat/tv111
-#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS欢乐台
-rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来育乐台
-rtmp://59.124.75.157/sat/tv701
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/613_1920x1080_HTV.png", CinemaWorld
-http://206.119.163.4/apitv/gtlive.php?id=14061&cid=14221
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX
-http://183.178.58.115:8029/0.ts
-#EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png", FOXMOVIES
-http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Tq9EFX4ctz_mAAWM_02bXU8M1QIztrqYHxxXaSuiO83xo-KOtlBHHui4ap7NpopFSA", 民视
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e9/a5/7d/e9a57d87-a0a1-d4e6-3b4a-f10abc314965/source/1024x1024bb.jpg", 台视
-http://50.7.61.148:30080/Entry/ttv
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png", 华视
-http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大综合台
-http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/d5604b4962f3", 八大第一台
-http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS欢乐台
-http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png", 中天娱乐台
-http://125.227.210.37:15796/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来综合台
-http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png", 纬来日本台
-http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png", wakuwaku
-http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 tvg-logo="https://web.tvbs.com.tw/eip/images/login_logo.png", TVBS
-http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立台湾台
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="http://file.tvsou.com/f/4b364c84bec1", 三立都会台
-https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/46ed70b1-7277-3988-95d9-bf53c9a37d88.png", 动物星球
-http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
-#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=Discovery_Channel_HD&productId=ENTOD&sourceType=colorHybrid", Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://www.disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_rectangle.png", 国家地理频道
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png", Star SportS
-http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/da786934f7f2e4b1d2291691722cf3df936eb37b.png", TLC旅游生活频道
-http://125.227.210.37:19020/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png", Asia
-http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2Yi5teXR2c3VwZXJfaWNvbl8xNjI0NTE5ODEyXzA2Nw/icon.png?w=&fakeurl=1", 为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/500px-Eastern_Broadcasting_Co_Limited_logo.svg.png", 东森洋片台
-http://125.227.210.37:18685/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", StarMoviesHD
-http://125.227.210.37:18789/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO
-http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png", HBO HD
-http://125.227.210.37:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video116/v4/cf/f7/15/cff715a7-4437-24dc-0e36-f58d62bda557/DIS_ENCANTO_WW_ARTWORK_EN_3840x2160_322K78000002BW.lsr/1200x675.jpg", Encanto
-https://onedrive.live.com/download?cid=2B23E90D29486F6B&resid=2B23E90D29486F6B%21111&authkey=AJKwwb9EtAPOQxo
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/a8/96/d7/a896d7ef-4f20-bca2-ed5f-4f563977b214/UNI_SPIRIT_UNTAMED_TH_MLWW_WW_ARTWORK_EN_3840x2160_2SDBM00000067X.lsr/1200x675.jpg", Spirit Untamed
-https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21106&authkey=AFhOKVw4tjZrKBs
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/4f/2b/1e/4f2b1ee9-518c-7f39-2973-a95ad332d8f2/pr_source.lsr/1200x675.jpg", A New Legacy
-https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21107&authkey=ALS1yYqeaiUTBTM
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/13/56/9c/13569cf0-6871-313d-484e-c40921332348/pr_source.lsr/1200x675.jpg", A Quiet Place II
-https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21108&authkey=AP_o0Cgb6uWG0gQ
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/504C-FDxpkDUcMF27l_tDw/1200x675.jpg", Jungle Cruise
-https://onedrive.live.com/download?cid=1C84241D16B99BC2&resid=1C84241D16B99BC2%21719&authkey=AAgT_Z9i1bjHLO4
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/97/87/22/9787227a-4307-22ea-cb75-bc5174bb1cad/pr_source.lsr/1200x675.jpg", Wife's Bodyguard
-https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21107&authkey=APxgjvKdbMPnUCc
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/biolq1IDACPNhfc__bBniw/1200x675.jpg", Black Widow
-https://onedrive.live.com/download?cid=84694CAA0DFD08C3&resid=84694CAA0DFD08C3%21116&authkey=AEoBv9fI9js1k4o
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/c7/66/0d/c7660d78-48fe-0717-6b18-ed16bb156cd9/pr_source.lsr/1200x675.jpg", Suicide Squad
-https://onedrive.live.com/download?cid=2B23E90D29486F6B&resid=2B23E90D29486F6B%21106&authkey=AMJ__qA7VOlw68o
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video115/v4/bb/dd/51/bbdd519d-ea19-c193-b38e-d67f4e58beb7/SPE_Peter_Rabbit_2_FINAL_WW_ARTWORK_EN_EN-GB_EN-AU_3840x2160_26G9TH000004D8.lsr/1200x675.jpg", Peter Rabbit 2
-https://onedrive.live.com/download?cid=5F75B394534197DB&resid=5F75B394534197DB%21108&authkey=AA7hlZ2ox6Y-APo
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video115/v4/e4/9c/c7/e49cc7ca-7871-4ee9-e323-5806636733a7/Fast9_PVOD_3840x2160_CoverArt_KA.lsr/1200x675.jpg", Fast & Furious 9
-https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21106&authkey=AIJBawQ6CbXaPE0
-#EXTINF:-1 tvg-logo="https://www.woah.my/wp-content/uploads/2021/05/jjlin.jpg", 林俊傑 - 聖所
-https://onedrive.live.com/download?cid=60749A173A0EB06C&resid=60749A173A0EB06C%21106&authkey=APllbjnR0fJU6dA
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/127bd325e96e5bd91b809428ba3a250890b932ed54330e237163b5480e45159b._UY500_UX667_RI_V_TTW_.jpg", A Quiet Place Part II
-https://onedrive.live.com/download?cid=BE98F42000E2F106&resid=BE98F42000E2F106%21113&authkey=APIQVRFRXWqIlUk
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml.gz"
+#EXTINF:-1 group-title="电视" tvg-country="TW" tvg-ID="民视" tvg-language="Chinese" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png",中视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",华视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live207_mobile.png",三立综合
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn17_mobile.png",亚洲旅游
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live123_mobile.png",美食旅遊
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live006_mobile.png",华语综艺
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv003_mobile.png",民视第一
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv001_mobile.png",民视台湾
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv09_mobile.png",民视影剧
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民视综艺
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民视旅游
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv042_mobile.png",公视戏剧
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live005_mobile.png",华语戏剧
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png",阿里郎
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live007_mobile.png",大爱电视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv043_mobile.png",客家电视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png",唐人亚太
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv075_mobile.png",镜新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live114_mobile.png",东森新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv052_mobile.png",华视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv13_mobile.png",民视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live089_mobile.png",三立财经
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live072_mobile.png",TVBS新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live019_mobile.png",东森财经
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv074_mobile.png",中视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv009_mobile.png",中天新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live060_mobile.png",全球财经
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv006_mobile.png",猪哥亮秀
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live076_mobile.png",全民最大
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv101_mobile.png",智林体育
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv014_mobile.png",时尚运动
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live012_mobile.png",滚动力
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live144_mobile.png",金光布袋
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live008_mobile.png",人间卫视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live071_mobile.png",德国之声
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv03_mobile.png",美国之音
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live022_mobile.png",经典卡通
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live021_mobile.png",经典电影
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",黄金岁月
+https://4gtvpc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-high/4gtv-4gtv002-avc1_6000000=1-mp4a_131000=7.m3u8?token=f0_yE3GSDIA0JPgijX1FKQ&expires=1653834368&token1=ZUJEn_jIq1BiV8Pbl-FgLQ&expires1=1653834368
