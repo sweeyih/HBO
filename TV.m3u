@@ -9,6 +9,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 #EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn17_mobile.png",亚洲旅游
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live120_mobile.png",生活旅游
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 #EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live123_mobile.png",美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 #EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live006_mobile.png",华语综艺
@@ -77,5 +79,25 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
 #EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live021_mobile.png",经典电影
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live030_mobile.png",互动英语
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn20_mobile.png",生活英語
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live107_mobile.png",MOMO亲子
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live047_mobile.png",东森购物一
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live046_mobile.png",东森购物二
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv17_mobile.png",好消息
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv10_mobile.png",国际新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live024_mobile.png",精选动漫
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live121_mobile.png",LUXE TV
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+#EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn14_mobile.png",寰宇新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 #EXTINF:0 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",黄金岁月
 https://4gtvpc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-high/4gtv-4gtv002-avc1_6000000=1-mp4a_131000=7.m3u8?token=cqfbx2inUhqO2cuWgpx05A&expires=1653943836&token1=ZLGUyCKSuvgCT65Eo-T7cQ&expires1=1653943836
