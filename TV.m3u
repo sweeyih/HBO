@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",HBO
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",HBO HD
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",Cinemax
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",CINEMAX
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",CINEMAX
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
