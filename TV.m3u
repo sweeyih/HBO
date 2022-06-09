@@ -103,5 +103,5 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-science/Samsung_Wild_Life_190x190.png",Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",CNA
-https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
