@@ -103,3 +103,43 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-science/Samsung_Wild_Life_190x190.png", Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://fuel.tv/images/find-us/fuel_tv_plus_150.png",FUEL TV
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09072021/InsightTV_190x190.png",Insight TV
+https://insighttv-samsungau.amagi.tv/playlistE720p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png",InTrouble
+https://introuble-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png",Trace Sport-Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://trace.tv/trace-urban/wp-content/uploads/sites/17/2016/11/logo_urban.png",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://a.jsrdn.com/hls/22729/eleven-sports/thumbh_20211025_165649.png",FTF Sports
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://www.thematv.com/images/channels/inwild.png",InWild
+https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwonder-use.png",InWonder
+https://inwonder-samsungau.amagi.tv/playlist720.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png",Mytime Movies
+https://appletree-mytimeau-samsung.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09072021/Nosey_190x190.png",Nosey
+https://nosey-intl-1-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/3497422/settings_images/ykXiJUi6Q1eJi03pBlTw_Real_Families_logo.jpg",Real Families 
+https://lds-realfamilies-samsunguau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYzNWJhYjAtYjdmOC00ZDE0LTgyZjMtMzA1MzE3N2MxNGVhXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_.jpg",Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/415_1920x1080_HTV.png",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-food/TASTEMADE_190x190.png",Tastemade
+https://tmint-aus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://www.animationuk.org/wp-content/uploads/2021/01/timelinetvbroadcastapp.png",Timeline
+https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://thetalentmanager.s3.amazonaws.com/company/d570eca3f6b6ddb5aa7a98df113a7437.png",Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ua-1-plus-1-11-4914-300x225.jpg",11 International
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
