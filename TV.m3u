@@ -139,9 +139,13 @@ https://tmint-aus-samsungau.amagi.tv/playlist1080p.m3u8
 https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://thetalentmanager.s3.amazonaws.com/company/d570eca3f6b6ddb5aa7a98df113a7437.png",Wonder
 https://lds-wonder-samsungau.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature
+#EXTINF:-1 group-title="电视" tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20212_LoveNature_90x50px.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 http://8.210.36.158/de/twlive.php?id=live1029
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",CINEMAX
+http://8.210.36.158/de/twlive.php?id=live1030
+#EXTINF:-1 group-title="电视" tvg-logo="https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20202%20-%20discovery%20+%20OD.png",Discovery
+http://8.210.36.158/de/twlive.php?id=live1002
