@@ -145,7 +145,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 http://8.210.36.158/de/twlive.php?id=live1029
-#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cine max
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Ginemax
 http://8.210.36.158/de/twlive.php?id=live1030
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/866_1920x1080_HTV.png",衛視電影
 http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
