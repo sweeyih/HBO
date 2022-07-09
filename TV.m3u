@@ -145,11 +145,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 http://8.210.36.158/de/twlive.php?id=live1029
-#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax-HD
 http://8.210.36.158/de/twlive.php?id=live1030
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/866_1920x1080_HTV.png",衛視電影
 http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20202%20-%20discovery%20+%20OD.png",Discovery
+#EXTINF:-1 group-title="电视" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhN2UcBBQJwYtMcbCe8PLVHukiwiBaT1bS3NcpZ8g=s900-c-k-c0x00ffffff-no-rj",Discovery
 http://8.210.36.158/de/twlive.php?id=live1002
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/411_1920x1080_HTV.png",國家地理
 http://8.210.36.158/de/twlive.php?id=live1003
