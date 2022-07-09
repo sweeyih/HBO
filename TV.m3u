@@ -165,5 +165,7 @@ http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 http://8.210.36.158/de/twlive.php?id=live1057
 #EXTINF:-1 group-title="电视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png",緯來育樂
 http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png",纬来日本
+rtmp://59.124.75.138/sat/tv771
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視 HD
 http://8.210.36.158/de/twlive.php?id=live1050
