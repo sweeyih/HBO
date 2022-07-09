@@ -153,7 +153,7 @@ http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 http://8.210.36.158/de/twlive.php?id=live1002
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/411_1920x1080_HTV.png",國家地理
 http://8.210.36.158/de/twlive.php?id=live1003
-#EXTINF:-1 group-title="电视" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5142331400-L.png",中天綜合
+#EXTINF:-1 group-title="电视" tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png",中天綜合
 http://8.210.36.158/de/twlive.php?id=live1022
 #EXTINF:-1 group-title="电视" tvg-logo="https://3.bp.blogspot.com/-ZVwzxp1-EUs/WiI8CXlMMvI/AAAAAAAAAfk/eInTrgS2DDQalJWJqEAslPz5Y2y90TzWQCLcBGAs/s1600/CH%2B30.jpg",三立都會
 http://8.210.36.158/de/twlive.php?id=live1020
