@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="假期" tvg-logo="https://zenseayacht.com.sg/wp-content/uploads/2022/05/2-1.png",假期
-https://onedrive.live.com/download?cid=80E7A2591D117BCD&resid=80E7A2591D117BCD%2112451&authkey=AJnXGYzZ4Yq9JRg
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png",中視
@@ -169,3 +167,5 @@ http://8.210.36.158/de/twlive.php?id=live1057
 http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視 HD
 http://8.210.36.158/de/twlive.php?id=live1050
+#EXTINF:-1 group-title="假期" tvg-logo="https://zenseayacht.com.sg/wp-content/uploads/2022/05/2-1.png",假期
+https://onedrive.live.com/download?cid=80E7A2591D117BCD&resid=80E7A2591D117BCD%2112451&authkey=AJnXGYzZ4Yq9JRg
