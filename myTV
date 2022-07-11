@@ -105,5 +105,3 @@ http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
 #EXTINF:-1 tvg-name= "Smithsonian" tvg-logo="https://poster.starhubgo.com/Linear_channels2/415_1920x1080_HTV.png",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 衛視電影 tvg-logo="https://poster.starhubgo.com/Linear_channels2/866_1920x1080_HTV.png",衛視電影
-http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
