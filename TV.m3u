@@ -147,5 +147,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://images.sports8.net/cimg/1037.jpg",八大第一
 http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="假期" tvg-logo="https://zenseayacht.com.sg/wp-content/uploads/2022/05/2-1.png",生日游艇
 https://onedrive.live.com/download?cid=80E7A2591D117BCD&resid=80E7A2591D117BCD%2112451&authkey=AJnXGYzZ4Yq9JRg
