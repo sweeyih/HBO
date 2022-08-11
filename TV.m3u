@@ -139,6 +139,8 @@ https://tmint-aus-samsungau.amagi.tv/playlist1080p.m3u8
 https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://thetalentmanager.s3.amazonaws.com/company/d570eca3f6b6ddb5aa7a98df113a7437.png",Wonder
 https://lds-wonder-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="电视" tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20212_LoveNature_90x50px.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20212_LoveNature_90x50px.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN
