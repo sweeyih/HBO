@@ -153,8 +153,6 @@ http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視 4gTV
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=KvgRMlasLAy0VbG0COqdMQ&expires=1661550423&token1=2Nl88VdrnpzOKJF0QHfF6w&expires1=1661550423
-#EXTINF:-1 group-title="假期" tvg-logo="https://zenseayacht.com.sg/wp-content/uploads/2022/05/2-1.png",生日游艇
-https://onedrive.live.com/download?cid=80E7A2591D117BCD&resid=80E7A2591D117BCD%2112478&authkey=AGz9VNc5IR1S1aI
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F4%2Fgracenote%2F4b348c62859540161f27cfca4ac62cda.jpg",Minions: The Rise of Gru
 https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21114&authkey=ACoVgJigYjoDtNw
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a5ecd08b25820aa23bf00d632994cdf014bf73db02f6d1c7af6be239938fc461._UY500_UX667_RI_V_TTW_.jpg",Sonic The Hedgehog 2
@@ -177,5 +175,5 @@ https://onedrive.live.com/download?cid=2B23E90D29486F6B&resid=2B23E90D29486F6B%2
 https://onedrive.live.com/download?cid=5F75B394534197DB&resid=5F75B394534197DB%21114&authkey=AJl3tBRDsq2la0k
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/407d91867b1fc835697e5a8fde0a5f7500b4babd6888a2bcf300e0f2d11f54a7._UY500_UX667_RI_V_TTW_.jpg",Ratatouille
 https://onedrive.live.com/download?cid=7991C37F0180BEA5&resid=7991C37F0180BEA5%21989&authkey=ABON_aEIMrLrZkc
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/18e5bdfbef6a0141ce05a9a30a84abaf59ca31d4c62d35cf01c2e6ee4350e55d._UY500_UX667_RI_V_TTW_.jpg",Jurassic World Dominion
-https://onedrive.live.com/download?cid=80E7A2591D117BCD&resid=80E7A2591D117BCD%2112498&authkey=AKHcGvO8CVAAPJM
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5099b0bb5c1a20bc2f43fe3a4934c94412c842a595deb5220d70a7ee959aae29._UY500_UX667_RI_V_TTW_SX329_.jpg",Top Gun: Maverick
+https://onedrive.live.com/download?cid=BE98F42000E2F106&resid=BE98F42000E2F106%21118&authkey=AC5xPwLD8viDqnU
