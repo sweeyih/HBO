@@ -152,7 +152,7 @@ http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視 4gTV
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=BYyU22WSZDy3WXaR9uak2A&expires=1661737891&token1=NX9asvE6p3PJySAiI09kcA&expires1=1661737891
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=l9lrv_FnhT3gD_SQRD-fUA&expires=1661819203&token1=HVxwTbVf9DCpWPgMvr3N2Q&expires1=1661819203
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F4%2Fgracenote%2F4b348c62859540161f27cfca4ac62cda.jpg",Minions: The Rise of Gru
 https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21114&authkey=ACoVgJigYjoDtNw
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a5ecd08b25820aa23bf00d632994cdf014bf73db02f6d1c7af6be239938fc461._UY500_UX667_RI_V_TTW_.jpg",Sonic The Hedgehog 2
