@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視 4gTV
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=U8YDK19I8vHJWQfrTsbbIQ&expires=1662312871&token1=-GW5hb7ajOs24BUICgbVsA&expires1=1662312871
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png",中視
@@ -99,8 +101,6 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
 #EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn14_mobile.png",寰宇新聞台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-science/Samsung_Wild_Life_190x190.png", Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09072021/EDGE_sports_190x190.png",EDGEsport
@@ -145,28 +145,26 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/866_1920x1080_HTV.png",衛視電影
-http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://images.sports8.net/cimg/1037.jpg",八大第一
 http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 #EXTINF:-1 group-title="电视" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="电视" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視 4gTV
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=ewM8lhw5jHx8My1mTV0BCw&expires=1662159375&token1=QyqG7r2J6rah5v-Ox8YUvw&expires1=1662159375
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F4%2Fgracenote%2F4b348c62859540161f27cfca4ac62cda.jpg",Minions: The Rise of Gru
 https://onedrive.live.com/download?cid=F16B26E12BC85275&resid=F16B26E12BC85275%21114&authkey=ACoVgJigYjoDtNw
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a5ecd08b25820aa23bf00d632994cdf014bf73db02f6d1c7af6be239938fc461._UY500_UX667_RI_V_TTW_.jpg",Sonic The Hedgehog 2
-https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21114&authkey=ALiksdjzdozjOu0
 #EXTINF:-1 group-title="Movies" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fc535a9656a57ac3ba28e5e5dd433bc7a4f1ada6813475c82acaa2afb42d68ee._UR1920,1080_SX329_.jpg",Fantastic Beasts: The Secrets of Dumbledore
 https://onedrive.live.com/download?cid=4409ED6356F15ED8&resid=4409ED6356F15ED8%21106&authkey=AKepdK3adFlnm3g
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/788575e2d08c883edb7eb45f60f6a54b736c2cd51954dadda2d659817c291c30._UY500_UX667_RI_V_TTW_.jpg",Venom: Let There Be Carnage
 https://onedrive.live.com/download?cid=35C20FE3D785EC39&resid=35C20FE3D785EC39%21119&authkey=ALzr7JYbm3AXy8Y
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5099b0bb5c1a20bc2f43fe3a4934c94412c842a595deb5220d70a7ee959aae29._UY500_UX667_RI_V_TTW_SX329_.jpg",Top Gun: Maverick
+https://onedrive.live.com/download?cid=BE98F42000E2F106&resid=BE98F42000E2F106%21118&authkey=AC5xPwLD8viDqnU
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a02eab0a2ffd89593dc621c66b531dd59980c89fd81033bc61674429043426aa._UY500_UX667_RI_V_TTW_.jpg",Sing 2
 https://onedrive.live.com/download?cid=84694CAA0DFD08C3&resid=84694CAA0DFD08C3%21123&authkey=AH4Wel6YbfFEhYc
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/adb49794a3877207783f1fbccad15964bdf4209c1f72b7f758f12ddd74f24c33._UY500_UX667_RI_V_TTW_.jpg",The Batman
-https://onedrive.live.com/download?cid=933480D912DE772D&resid=933480D912DE772D%21121&authkey=ANtqkZUUaEjXihQ
 #EXTINF:-1 group-title="Movies" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/74CBD8322C48145B76C03E242133F60FEAEE031CBD25A88D0ECDEAED1769169D/scale?width=1200&aspectRatio=1.78&format=jpeg",Ron's Gone Wrong
 https://onedrive.live.com/download?cid=2AFD29B92873385E&resid=2AFD29B92873385E%21112&authkey=AEOiPIZkO494mxA
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a5ecd08b25820aa23bf00d632994cdf014bf73db02f6d1c7af6be239938fc461._UY500_UX667_RI_V_TTW_.jpg",Sonic The Hedgehog 2
+https://onedrive.live.com/download?cid=C112A5C2ED7747AD&resid=C112A5C2ED7747AD%21114&authkey=ALiksdjzdozjOu0
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/adb49794a3877207783f1fbccad15964bdf4209c1f72b7f758f12ddd74f24c33._UY500_UX667_RI_V_TTW_.jpg",The Batman
+https://onedrive.live.com/download?cid=933480D912DE772D&resid=933480D912DE772D%21121&authkey=ANtqkZUUaEjXihQ
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d7c9a3d8da181b1630747604407eb7ae8b3754713ea6a0dd07d8a11dd4e6e098._UY500_UX667_RI_V_TTW_.jpg",Ghostbusters: Afterlife
 https://onedrive.live.com/download?cid=1C84241D16B99BC2&resid=1C84241D16B99BC2%21730&authkey=AOqeine9-ADc7Yw
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/cc76e1db44cb4d0ff656b45c120d0b6077f6d85807b589dcd31e8d78d3ed1f61._UY500_UX667_RI_V_TTW_.jpg",The Lost City
@@ -175,7 +173,3 @@ https://onedrive.live.com/download?cid=2B23E90D29486F6B&resid=2B23E90D29486F6B%2
 https://onedrive.live.com/download?cid=5F75B394534197DB&resid=5F75B394534197DB%21114&authkey=AJl3tBRDsq2la0k
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/407d91867b1fc835697e5a8fde0a5f7500b4babd6888a2bcf300e0f2d11f54a7._UY500_UX667_RI_V_TTW_.jpg",Ratatouille
 https://onedrive.live.com/download?cid=7991C37F0180BEA5&resid=7991C37F0180BEA5%21989&authkey=ABON_aEIMrLrZkc
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5099b0bb5c1a20bc2f43fe3a4934c94412c842a595deb5220d70a7ee959aae29._UY500_UX667_RI_V_TTW_SX329_.jpg",Top Gun: Maverick
-https://onedrive.live.com/download?cid=BE98F42000E2F106&resid=BE98F42000E2F106%21118&authkey=AC5xPwLD8viDqnU
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/506ec8e90b733aa7a959345b47cd15d97d007726b3de9a406087e67a4042a7d0._UY500_UX667_RI_V_TTW_.jpg",Home Alone
-https://onedrive.live.com/download?cid=80E7A2591D117BCD&resid=80E7A2591D117BCD%2112506&authkey=ADscxDxLC1VBWCs
