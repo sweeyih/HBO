@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=mFPTmpvjbeVAChfQMFIqMw&expires=1668348472&token1=l0NsepcuysNZPsodFuNpUw&expires1=1668348472
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_131000=7.m3u8?token=I1ZQfajdDDCPY34omnDjKg&expires=1668876071&token1=3rY105oiUJnQtf8n6yQzMA&expires1=1668876071
 #EXTINF:-1 group-title="TV" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv003_mobile.png",民視第一台
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/4gtv-4gtv003-avc1_2000000=6-mp4a_129000=9.m3u8?token=ohoHVb1TZXsSRZmGBPDkcA&expires=1668348554&token1=iqJ7-h89J44fOWQzjRPTNw&expires1=1668348554
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/4gtv-4gtv003-avc1_2000000=6-mp4a_129000=9.m3u8?token=EBhgATgFmWh9S_fc_2h5MA&expires=1668876222&token1=2SdeLbw-e9bKfhqBdgWKfw&expires1=1668876222
 #EXTINF:-1 group-title="TV" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv001_mobile.png",民視台灣台
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/4gtv-4gtv001-avc1_2000000=3-mp4a_140000=2.m3u8?token=bR3ZgEkMZvW_JQQfulcWzw&expires=1668348602&token1=2QK5SX0cX7vYg16JCQDEDg&expires1=1668348602
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/4gtv-4gtv001-avc1_2000000=3-mp4a_140000=2.m3u8?token=RMi7e5ct3TbGPq56RijUTA&expires=1668876332&token1=NBgqmgY0EwYPzPU-zXDxOg&expires1=1668876332
 #EXTINF:-1 group-title="TV" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv09_mobile.png",民視影劇台
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/litv-ftv09-audio_20000=128000-video=2000000.m3u8?token=MsA1QB8bS1aA35ArWD9z7Q&expires=1668011395&token1=Yxw3yo6aTchnz_9ZO5o3rg&expires1=1668011395
 #EXTINF:-1 group-title="TV" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民視綜藝台
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv004/4gtv-live-mid/4gtv-4gtv004-avc1_2000000=3-mp4a_130000=7.m3u8?token=6hIR24cn2Nm5Jr2rU_Xtvg&expires=1668348649&token1=wgYLmd0dyorWJ9nR2JClEA&expires1=1668348649
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv004/4gtv-live-mid/4gtv-4gtv004-avc1_2000000=3-mp4a_130000=7.m3u8?token=TqU3nfXBIbBrVJHEe_DOAQ&expires=1668876478&token1=Suf5aNLNCcBerM060IFm9Q&expires1=1668876478
 #EXTINF:-1 group-title="TV" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊台
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/litv-ftv07-audio_20000=124000-video=2000000.m3u8?token=iD3J9XP_Ae08a0_HwtBWNw&expires=1668011493&token1=tY_p8UY8fyXx4KHzyUpdWA&expires1=1668011493
 #EXTINF:-1 group-title="TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
