@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" catchup-type="shift"
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml" catchup-type="shift"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:0 tvg-id="HBO HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0 tvg-id="369264" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
