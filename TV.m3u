@@ -17,11 +17,11 @@ http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&c
 https://www.insurancegogogo.com/4987/Celestial/playlist.m3u8?t=1749651024&amp;token=9c47038825968e8378b728fa83901527
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映频道
 http://198.16.100.186:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png",緯來日本台
+#EXTINF:0 ,緯來日本台
 https://www.insurancegogogo.com/4987/videolandjapan/playlist.m3u8?t=1749813838&amp;token=70765c19f2fc376c2eac0da41c76d66d
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/330px-Eastern_Broadcasting_Co_Limited_logo.svg.png",東森電影台
+#EXTINF:0 ,東森電影台
 https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8?t=1749869424&amp;token=19a3650de10a49d5dbddc79b40943b59
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/330px-Eastern_Broadcasting_Co_Limited_logo.svg.png",東森洋片台
+#EXTINF:0 ,東森洋片台
 https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8?t=1749869324&amp;token=b180e3494aad55b03036969d83faf4d8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/1200px-China_TV_logo_since_19971030.svg.png",中視
 https://www.insurancegogogo.com/4987/zhongshihd_twn/playlist.m3u8?t=1749868140&amp;token=4048016b9613f3359d3233be10efebab
@@ -29,7 +29,7 @@ https://www.insurancegogogo.com/4987/zhongshihd_twn/playlist.m3u8?t=1749868140&a
 https://www.insurancegogogo.com/4987/ctshd_twn/playlist.m3u8?t=1749868394&amp;token=bbd7a12f9c746b339d8435545331820c
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 https://www.insurancegogogo.com/ompd/jade/playlist.m3u8?t=1749639681&amp;token=3db2c8f5293fe04f759383bf3b0b6fec
-#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
