@@ -33,7 +33,7 @@ https://www.insurancegogogo.com/ompd/jade/playlist.m3u8?t=1749639681&amp;token=3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-id="TVBS Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:0 tvg-id="Channel News Asia HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民视
+#EXTINF:0 tvg-id="Channel News Asia HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:0 tvg-id="Channel News Asia HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",华视
 rtmp://f13h.mine.nu/sat/tv111
