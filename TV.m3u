@@ -41,11 +41,9 @@ rtmp://f13h.mine.nu/sat/tv111
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:0 ,台視
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:0 ,东森超视
-rtmp://f13h.mine.nu/sat/tv331 
 #EXTINF:0 ,緯來日本台
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:0 ,纬来体育
+#EXTINF:0 ,緯來體育台
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:0 ,纬来育乐
+#EXTINF:0 ,緯來育樂台
 rtmp://f13h.mine.nu/sat/tv701
