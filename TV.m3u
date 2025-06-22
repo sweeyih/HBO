@@ -33,7 +33,7 @@ https://www.insurancegogogo.com/ompd/jade/playlist.m3u8?t=1749639681&amp;token=3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 ,TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:0 ,民視HD
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png",民視HD
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:0 ,華視
 rtmp://f13h.mine.nu/sat/tv111
