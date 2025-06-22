@@ -23,9 +23,9 @@ https://www.insurancegogogo.com/4987/videolandjapan/playlist.m3u8?t=1749813838&a
 https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8?t=1749869424&amp;token=19a3650de10a49d5dbddc79b40943b59
 #EXTINF:0 ,東森洋片台
 https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8?t=1749869324&amp;token=b180e3494aad55b03036969d83faf4d8
-#EXTINF:0 ,中視
+#EXTINF:0 ,中視HD
 https://www.insurancegogogo.com/4987/zhongshihd_twn/playlist.m3u8?t=1749868140&amp;token=4048016b9613f3359d3233be10efebab
-#EXTINF:0 ,華視
+#EXTINF:0 ,華視HD
 https://www.insurancegogogo.com/4987/ctshd_twn/playlist.m3u8?t=1749868394&amp;token=bbd7a12f9c746b339d8435545331820c
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 https://www.insurancegogogo.com/ompd/jade/playlist.m3u8?t=1749639681&amp;token=3db2c8f5293fe04f759383bf3b0b6fec
@@ -37,9 +37,9 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/1200px-FTV_HD_Logo.svg.png",民視HD
 https://4gtvfreemobile-mozai.4gtv.tv/oQFOS8-QZ_QKNEKnFm83U9LcQtv1jm0jAcLq71hG5K8%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=iL9rxy5g24Z1J3KU0uE6NA&expires=1750612431&refer=MDdjYWRmNmQtMTJjMC00MmRiLThiYzUtZWFmNWQ2YTRiNjFh&token1=MpCLEby1wx2T1P2vKui4cQ&expires1=1750641231&y=0&vt=&bip=&bnts=
-#EXTINF:0 ,華視
+#EXTINF:0 ,華視HD
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:0 ,中視
+#EXTINF:0 ,中視HD
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:0 ,台視
 rtmp://f13h.mine.nu/sat/tv071
