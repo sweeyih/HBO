@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 ,ROCK Action
 https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:0 ,好萊塢電影台
