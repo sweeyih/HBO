@@ -3,6 +3,8 @@
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 ,ROCK Action
 https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:0 ,好萊塢電影台
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
