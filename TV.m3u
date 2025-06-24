@@ -3,16 +3,16 @@
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 ,HBO
 http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:0 ,ROCK Action
+https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:0 ,好萊塢電影台
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:0 ,HBO 2 - Eastern Feed
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 ,Cinemax HD
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 #EXTINF:0 ,Cinemax HD
 http://198.16.100.186:8278/Cinemax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=50e3741a2c29baab231b6cbadfd47563
-#EXTINF:0 ,ROCK Action
-https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:0 ,好萊塢電影台
-https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:0 ,東森電影台
 https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8?t=1749869424&amp;token=19a3650de10a49d5dbddc79b40943b59
 #EXTINF:0 ,東森洋片台
