@@ -3,7 +3,7 @@
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/HBO_HD_USA%2C_SE_Asia%2C_Korea_and_Taiwan_logo.png/revision/latest/scale-to-width-down/985?cb=20230111143822&path-prefix=vi",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:0 tvg-name="Cinemax",Cinemax HD
+#EXTINF:0 ,Cinemax HD
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:0 ,ROCK Action
 https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
@@ -13,7 +13,7 @@ https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 ,HBO 2 - Eastern Feed
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-name="Cinemax",Cinemax HD
+#EXTINF:0 ,Cinemax HD
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 #EXTINF:0 ,東森洋片台
 https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8?t=1749869324&amp;token=b180e3494aad55b03036969d83faf4d8
@@ -21,7 +21,7 @@ https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8?t=1749869324&amp;
 https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8?t=1749869424&amp;token=19a3650de10a49d5dbddc79b40943b59
 #EXTINF:0 ,Celestial Movies HD
 https://www.insurancegogogo.com/4987/Celestial/playlist.m3u8?t=1749651024&amp;token=9c47038825968e8378b728fa83901527
-#EXTINF:0 tvg-name="BBC Earth"",BBC Earth HD
+#EXTINF:0 ,BBC Earth HD
 http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 #EXTINF:0 ,緯來日本台
 https://www.insurancegogogo.com/4987/videolandjapan/playlist.m3u8?t=1749813838&amp;token=70765c19f2fc376c2eac0da41c76d66d
