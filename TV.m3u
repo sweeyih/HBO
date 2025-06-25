@@ -7,7 +7,7 @@ http://125.227.210.55:8153/VideoInput/play.ts
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",ROCK Action
 https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:0 ,好萊塢電影台
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png",好萊塢電影台
 https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:0 ,Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
