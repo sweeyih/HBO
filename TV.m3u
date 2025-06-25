@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
-#EXTINF:0 tvg-name="HBO",HBO HD
-https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 ,HBO HD
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/HBO_HD_USA%2C_SE_Asia%2C_Korea_and_Taiwan_logo.png/revision/latest/scale-to-width-down/985?cb=20230111143822&path-prefix=vi",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 tvg-name="Cinemax",Cinemax HD
 http://125.227.210.55:8151/VideoInput/play.ts
