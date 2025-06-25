@@ -3,7 +3,7 @@
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/HBO_HD_USA%2C_SE_Asia%2C_Korea_and_Taiwan_logo.png/revision/latest/scale-to-width-down/985?cb=20230111143822&path-prefix=vi",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:0 ,Cinemax HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",ROCK Action
 https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
@@ -13,7 +13,7 @@ https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 ,HBO 2 - Eastern Feed
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 ,Cinemax HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/330px-Eastern_Broadcasting_Co_Limited_logo.svg.png",東森洋片台
 https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8?t=1749869324&amp;token=b180e3494aad55b03036969d83faf4d8
