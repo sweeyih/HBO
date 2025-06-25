@@ -5,7 +5,7 @@ https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 ,Cinemax HD
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:0 ,ROCK Action
+#EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",ROCK Action
 https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:0 ,好萊塢電影台
 https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
