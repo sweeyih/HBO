@@ -11,7 +11,7 @@ https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/foLICwL.png",Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:0 ,HBO 2 - Eastern Feed
+#EXTINF:0 tvg-logo="https://ia904502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png",HBO 2 - Eastern Feed
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
