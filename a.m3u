@@ -13,6 +13,16 @@ https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://ams.tvbs.com.tw/FILE_DB/ams/202009/pvqs2l56zo.png",TVBS
 https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",八度空间
+https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXEU9cu-BKgFWmxuPCLVVKUEzbG_lFs8dxQ&s",龍華日韓
+https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png",TVBS新聞
+https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png",中天新闻
+https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png",東森新聞
+https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/HBO_HD_USA%2C_SE_Asia%2C_Korea_and_Taiwan_logo.png/revision/latest/scale-to-width-down/985?cb=20230111143822&path-prefix=vi",HBO HD
