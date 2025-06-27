@@ -11,14 +11,14 @@ https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/500px-Mei_Ah_Movies_Channel_logo.png",美亞電影
 https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:0 tvg-logo="https://ia904502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png",HBO 2 - Eastern Feed
-https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/330px-Eastern_Broadcasting_Co_Limited_logo.svg.png",東森洋片台
 https://www.insurancegogogo.com/4987/ettvwestern/playlist.m3u8?t=1749869324&amp;token=b180e3494aad55b03036969d83faf4d8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/330px-Eastern_Broadcasting_Co_Limited_logo.svg.png",東森電影台
 https://www.insurancegogogo.com/4987/ettvmovie/playlist.m3u8?t=1749869424&amp;token=19a3650de10a49d5dbddc79b40943b59
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映頻道
 https://www.insurancegogogo.com/4987/Celestial/playlist.m3u8?t=1749651024&amp;token=9c47038825968e8378b728fa83901527
+#EXTINF:0 tvg-logo="https://ia904502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png",HBO 2 - Eastern Feed
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png",纬来日本台
 https://www.insurancegogogo.com/4987/videolandjapan/playlist.m3u8?t=1749813838&amp;token=70765c19f2fc376c2eac0da41c76d66d
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
