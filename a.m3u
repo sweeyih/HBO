@@ -19,7 +19,7 @@ https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
 https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/171lwfg.png",TVBS新聞
 https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:0 tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png",中天新闻
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",中天新闻
 https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg",東森新聞
 https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
