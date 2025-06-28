@@ -15,8 +15,6 @@ https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",八度空间
 https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
-#EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png",龍華日韓
-https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/171lwfg.png",TVBS新聞
 https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png",中天新闻
@@ -61,3 +59,5 @@ https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png",tvN HD
 https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png",龍華日韓
+https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
