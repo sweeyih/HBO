@@ -19,9 +19,9 @@ https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
 https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/171lwfg.png",TVBS新聞
 https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_pc.png",中天新闻
+#EXTINF:0 tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png",中天新闻
 https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_pc.png",東森新聞
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/EBC%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.png/revision/latest/scale-to-width-down/985?cb=20231130063135&path-prefix=vi",東森新聞
 https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
